@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\bin\Debug\net7.0\P02-area-circulo.exe
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\bin\Debug\net7.0\P02-area-circulo.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\bin\Debug\net7.0\P02-area-circulo.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\bin\Debug\net7.0\P02-area-circulo.dll
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\bin\Debug\net7.0\P02-area-circulo.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.dll
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\obj\Debug\net7.0\refint\P02-area-circulo.dll
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P02-area-circulo\obj\Debug\net7.0\ref\P02-area-circulo.dll
