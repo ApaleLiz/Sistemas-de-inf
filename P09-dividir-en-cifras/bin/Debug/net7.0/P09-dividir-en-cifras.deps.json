@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P09-dividir-en-cifras/1.0.0": {
+        "runtime": {
+          "P09-dividir-en-cifras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P09-dividir-en-cifras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

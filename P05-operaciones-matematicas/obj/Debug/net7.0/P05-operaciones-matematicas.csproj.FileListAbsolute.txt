@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\obj\Debug\net7.0\P05-operaciones-matematicas.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\obj\Debug\net7.0\P05-operaciones-matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\obj\Debug\net7.0\P05-operaciones-matematicas.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\obj\Debug\net7.0\P05-operaciones-matematicas.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\obj\Debug\net7.0\P05-operaciones-matematicas.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\bin\Debug\net7.0\P05-operaciones-matematicas.exe
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\bin\Debug\net7.0\P05-operaciones-matematicas.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\bin\Debug\net7.0\P05-operaciones-matematicas.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\bin\Debug\net7.0\P05-operaciones-matematicas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\bin\Debug\net7.0\P05-operaciones-matematicas.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\obj\Debug\net7.0\P05-operaciones-matematicas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\obj\Debug\net7.0\refint\P05-operaciones-matematicas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\obj\Debug\net7.0\P05-operaciones-matematicas.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\obj\Debug\net7.0\P05-operaciones-matematicas.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P05-operaciones-matematicas\obj\Debug\net7.0\ref\P05-operaciones-matematicas.dll

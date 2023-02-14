@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\bin\Debug\net7.0\P08-funciones-trigonometricas.exe
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\bin\Debug\net7.0\P08-funciones-trigonometricas.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\bin\Debug\net7.0\P08-funciones-trigonometricas.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\bin\Debug\net7.0\P08-funciones-trigonometricas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\bin\Debug\net7.0\P08-funciones-trigonometricas.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\obj\Debug\net7.0\P08-funciones-trigonometricas.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\obj\Debug\net7.0\P08-funciones-trigonometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\obj\Debug\net7.0\P08-funciones-trigonometricas.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\obj\Debug\net7.0\P08-funciones-trigonometricas.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\obj\Debug\net7.0\P08-funciones-trigonometricas.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\obj\Debug\net7.0\P08-funciones-trigonometricas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\obj\Debug\net7.0\refint\P08-funciones-trigonometricas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\obj\Debug\net7.0\P08-funciones-trigonometricas.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\obj\Debug\net7.0\P08-funciones-trigonometricas.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P08-funciones-trigonometricas\obj\Debug\net7.0\ref\P08-funciones-trigonometricas.dll
