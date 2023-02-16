@@ -11,6 +11,7 @@
 -P04-paga-trabajar
 
 ##Actividad 2 (14/02/2023)
+
 -P05-operaciones-matematicas
 -P06-promedio-calificaciones
 -P07-operadores-asignacion
