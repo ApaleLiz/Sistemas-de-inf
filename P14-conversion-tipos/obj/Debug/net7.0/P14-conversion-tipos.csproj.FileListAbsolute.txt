@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\bin\Debug\net7.0\P14-conversion-tipos.exe
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\bin\Debug\net7.0\P14-conversion-tipos.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\bin\Debug\net7.0\P14-conversion-tipos.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\bin\Debug\net7.0\P14-conversion-tipos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\bin\Debug\net7.0\P14-conversion-tipos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\obj\Debug\net7.0\P14-conversion-tipos.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\obj\Debug\net7.0\P14-conversion-tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\obj\Debug\net7.0\P14-conversion-tipos.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\obj\Debug\net7.0\P14-conversion-tipos.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\obj\Debug\net7.0\P14-conversion-tipos.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\obj\Debug\net7.0\P14-conversion-tipos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\obj\Debug\net7.0\refint\P14-conversion-tipos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\obj\Debug\net7.0\P14-conversion-tipos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\obj\Debug\net7.0\P14-conversion-tipos.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P14-conversion-tipos\obj\Debug\net7.0\ref\P14-conversion-tipos.dll
