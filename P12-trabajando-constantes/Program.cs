@@ -18,3 +18,5 @@ Console.WriteLine("separador - literal en formato hexadecimal : {0:x} - {1:x}", 
 Console.WriteLine("separador - literal en formato binario : {0:x} - {1:x}",
 Convert.ToString(SEPARADOR, 2), Convert.ToString(LITERAL, 2));
 
+//
+

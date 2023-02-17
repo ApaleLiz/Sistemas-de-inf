@@ -18,3 +18,5 @@ Console.WriteLine($"val3 en formato numerico: {val2:c} ");
 Console.WriteLine($"float: {float.MinValue}, {float.MaxValue}, {sizeof(float)} ");
 Console.WriteLine($"double: {double.MinValue}, {double.MaxValue}, {sizeof(double)} ");
 Console.WriteLine($"decimal: {float.MinValue}, {decimal.MaxValue}, {sizeof(decimal)} ");
+
+//

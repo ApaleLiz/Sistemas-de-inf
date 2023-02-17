@@ -28,3 +28,4 @@ Console.WriteLine($"short : {short.MinValue}, {short.MaxValue}");
 Console.WriteLine($"long : {long.MinValue}, {long.MaxValue}");
 Console.WriteLine($"ulong : {ulong.MinValue}, {ulong.MaxValue}");
 
+//
