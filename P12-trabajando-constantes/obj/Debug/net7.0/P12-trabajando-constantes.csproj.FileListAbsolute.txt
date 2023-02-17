@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\obj\Debug\net7.0\P12-trabajando-constantes.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\obj\Debug\net7.0\P12-trabajando-constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\obj\Debug\net7.0\P12-trabajando-constantes.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\obj\Debug\net7.0\P12-trabajando-constantes.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\obj\Debug\net7.0\P12-trabajando-constantes.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\bin\Debug\net7.0\P12-trabajando-constantes.exe
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\bin\Debug\net7.0\P12-trabajando-constantes.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\bin\Debug\net7.0\P12-trabajando-constantes.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\bin\Debug\net7.0\P12-trabajando-constantes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\bin\Debug\net7.0\P12-trabajando-constantes.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\obj\Debug\net7.0\P12-trabajando-constantes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\obj\Debug\net7.0\refint\P12-trabajando-constantes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\obj\Debug\net7.0\P12-trabajando-constantes.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\obj\Debug\net7.0\P12-trabajando-constantes.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P12-trabajando-constantes\obj\Debug\net7.0\ref\P12-trabajando-constantes.dll

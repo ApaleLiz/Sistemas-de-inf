@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\bin\Debug\net7.0\P10-trabajando-enteros.exe
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\bin\Debug\net7.0\P10-trabajando-enteros.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\bin\Debug\net7.0\P10-trabajando-enteros.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\bin\Debug\net7.0\P10-trabajando-enteros.dll
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\bin\Debug\net7.0\P10-trabajando-enteros.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\obj\Debug\net7.0\P10-trabajando-enteros.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\obj\Debug\net7.0\P10-trabajando-enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\obj\Debug\net7.0\P10-trabajando-enteros.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\obj\Debug\net7.0\P10-trabajando-enteros.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\obj\Debug\net7.0\P10-trabajando-enteros.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\obj\Debug\net7.0\P10-trabajando-enteros.dll
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\obj\Debug\net7.0\refint\P10-trabajando-enteros.dll
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\obj\Debug\net7.0\P10-trabajando-enteros.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\obj\Debug\net7.0\P10-trabajando-enteros.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P10-trabajando-enteros\obj\Debug\net7.0\ref\P10-trabajando-enteros.dll

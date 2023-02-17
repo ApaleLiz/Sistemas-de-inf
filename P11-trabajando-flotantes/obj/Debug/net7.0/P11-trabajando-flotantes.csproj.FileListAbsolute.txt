@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\obj\Debug\net7.0\P11-trabajando-flotantes.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\obj\Debug\net7.0\P11-trabajando-flotantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\obj\Debug\net7.0\P11-trabajando-flotantes.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\obj\Debug\net7.0\P11-trabajando-flotantes.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\obj\Debug\net7.0\P11-trabajando-flotantes.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\bin\Debug\net7.0\P11-trabajando-flotantes.exe
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\bin\Debug\net7.0\P11-trabajando-flotantes.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\bin\Debug\net7.0\P11-trabajando-flotantes.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\bin\Debug\net7.0\P11-trabajando-flotantes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\bin\Debug\net7.0\P11-trabajando-flotantes.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\obj\Debug\net7.0\P11-trabajando-flotantes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\obj\Debug\net7.0\refint\P11-trabajando-flotantes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\obj\Debug\net7.0\P11-trabajando-flotantes.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\obj\Debug\net7.0\P11-trabajando-flotantes.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P11-trabajando-flotantes\obj\Debug\net7.0\ref\P11-trabajando-flotantes.dll
