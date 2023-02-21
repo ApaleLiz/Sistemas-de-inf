@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\bin\Debug\net7.0\P24-paga-extra.exe
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\bin\Debug\net7.0\P24-paga-extra.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\bin\Debug\net7.0\P24-paga-extra.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\bin\Debug\net7.0\P24-paga-extra.dll
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\bin\Debug\net7.0\P24-paga-extra.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\obj\Debug\net7.0\P24-paga-extra.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\obj\Debug\net7.0\P24-paga-extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\obj\Debug\net7.0\P24-paga-extra.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\obj\Debug\net7.0\P24-paga-extra.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\obj\Debug\net7.0\P24-paga-extra.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\obj\Debug\net7.0\P24-paga-extra.dll
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\obj\Debug\net7.0\refint\P24-paga-extra.dll
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\obj\Debug\net7.0\P24-paga-extra.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\obj\Debug\net7.0\P24-paga-extra.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P24-paga-extra\obj\Debug\net7.0\ref\P24-paga-extra.dll

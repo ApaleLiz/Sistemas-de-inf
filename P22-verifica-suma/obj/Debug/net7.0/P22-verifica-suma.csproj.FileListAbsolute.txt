@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\bin\Debug\net7.0\P22-verifica-suma.exe
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\bin\Debug\net7.0\P22-verifica-suma.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\bin\Debug\net7.0\P22-verifica-suma.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\bin\Debug\net7.0\P22-verifica-suma.dll
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\bin\Debug\net7.0\P22-verifica-suma.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\obj\Debug\net7.0\P22-verifica-suma.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\obj\Debug\net7.0\P22-verifica-suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\obj\Debug\net7.0\P22-verifica-suma.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\obj\Debug\net7.0\P22-verifica-suma.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\obj\Debug\net7.0\P22-verifica-suma.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\obj\Debug\net7.0\P22-verifica-suma.dll
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\obj\Debug\net7.0\refint\P22-verifica-suma.dll
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\obj\Debug\net7.0\P22-verifica-suma.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\obj\Debug\net7.0\P22-verifica-suma.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P22-verifica-suma\obj\Debug\net7.0\ref\P22-verifica-suma.dll

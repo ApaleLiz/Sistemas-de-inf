@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\obj\Debug\net7.0\P21-verifica-numero.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\obj\Debug\net7.0\P21-verifica-numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\obj\Debug\net7.0\P21-verifica-numero.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\obj\Debug\net7.0\P21-verifica-numero.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\obj\Debug\net7.0\P21-verifica-numero.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\bin\Debug\net7.0\P21-verifica-numero.exe
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\bin\Debug\net7.0\P21-verifica-numero.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\bin\Debug\net7.0\P21-verifica-numero.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\bin\Debug\net7.0\P21-verifica-numero.dll
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\bin\Debug\net7.0\P21-verifica-numero.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\obj\Debug\net7.0\P21-verifica-numero.dll
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\obj\Debug\net7.0\refint\P21-verifica-numero.dll
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\obj\Debug\net7.0\P21-verifica-numero.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\obj\Debug\net7.0\P21-verifica-numero.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P21-verifica-numero\obj\Debug\net7.0\ref\P21-verifica-numero.dll
