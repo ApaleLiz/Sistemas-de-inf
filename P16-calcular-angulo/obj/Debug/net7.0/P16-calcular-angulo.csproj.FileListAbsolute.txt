@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\obj\Debug\net7.0\P16-calcular-angulo.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\obj\Debug\net7.0\P16-calcular-angulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\obj\Debug\net7.0\P16-calcular-angulo.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\obj\Debug\net7.0\P16-calcular-angulo.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\obj\Debug\net7.0\P16-calcular-angulo.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\bin\Debug\net7.0\P16-calcular-angulo.exe
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\bin\Debug\net7.0\P16-calcular-angulo.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\bin\Debug\net7.0\P16-calcular-angulo.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\bin\Debug\net7.0\P16-calcular-angulo.dll
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\bin\Debug\net7.0\P16-calcular-angulo.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\obj\Debug\net7.0\P16-calcular-angulo.dll
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\obj\Debug\net7.0\refint\P16-calcular-angulo.dll
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\obj\Debug\net7.0\P16-calcular-angulo.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\obj\Debug\net7.0\P16-calcular-angulo.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P16-calcular-angulo\obj\Debug\net7.0\ref\P16-calcular-angulo.dll

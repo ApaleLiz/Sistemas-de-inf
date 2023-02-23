@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\obj\Debug\net7.0\P18-volumen-cilindro.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\obj\Debug\net7.0\P18-volumen-cilindro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\obj\Debug\net7.0\P18-volumen-cilindro.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\obj\Debug\net7.0\P18-volumen-cilindro.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\obj\Debug\net7.0\P18-volumen-cilindro.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\bin\Debug\net7.0\P18-volumen-cilindro.exe
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\bin\Debug\net7.0\P18-volumen-cilindro.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\bin\Debug\net7.0\P18-volumen-cilindro.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\bin\Debug\net7.0\P18-volumen-cilindro.dll
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\bin\Debug\net7.0\P18-volumen-cilindro.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\obj\Debug\net7.0\P18-volumen-cilindro.dll
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\obj\Debug\net7.0\refint\P18-volumen-cilindro.dll
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\obj\Debug\net7.0\P18-volumen-cilindro.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\obj\Debug\net7.0\P18-volumen-cilindro.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P18-volumen-cilindro\obj\Debug\net7.0\ref\P18-volumen-cilindro.dll

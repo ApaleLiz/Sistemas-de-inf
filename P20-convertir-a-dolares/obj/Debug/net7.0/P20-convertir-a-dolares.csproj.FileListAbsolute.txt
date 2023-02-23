@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\bin\Debug\net7.0\P20-convertir-a-dolares.exe
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\bin\Debug\net7.0\P20-convertir-a-dolares.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\bin\Debug\net7.0\P20-convertir-a-dolares.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\bin\Debug\net7.0\P20-convertir-a-dolares.dll
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\bin\Debug\net7.0\P20-convertir-a-dolares.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\obj\Debug\net7.0\P20-convertir-a-dolares.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\obj\Debug\net7.0\P20-convertir-a-dolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\obj\Debug\net7.0\P20-convertir-a-dolares.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\obj\Debug\net7.0\P20-convertir-a-dolares.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\obj\Debug\net7.0\P20-convertir-a-dolares.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\obj\Debug\net7.0\P20-convertir-a-dolares.dll
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\obj\Debug\net7.0\refint\P20-convertir-a-dolares.dll
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\obj\Debug\net7.0\P20-convertir-a-dolares.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\obj\Debug\net7.0\P20-convertir-a-dolares.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P20-convertir-a-dolares\obj\Debug\net7.0\ref\P20-convertir-a-dolares.dll
