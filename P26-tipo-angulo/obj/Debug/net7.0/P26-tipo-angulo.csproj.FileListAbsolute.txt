@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\obj\Debug\net7.0\P26-tipo-angulo.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\obj\Debug\net7.0\P26-tipo-angulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\obj\Debug\net7.0\P26-tipo-angulo.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\obj\Debug\net7.0\P26-tipo-angulo.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\obj\Debug\net7.0\P26-tipo-angulo.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\bin\Debug\net7.0\P26-tipo-angulo.exe
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\bin\Debug\net7.0\P26-tipo-angulo.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\bin\Debug\net7.0\P26-tipo-angulo.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\bin\Debug\net7.0\P26-tipo-angulo.dll
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\bin\Debug\net7.0\P26-tipo-angulo.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\obj\Debug\net7.0\P26-tipo-angulo.dll
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\obj\Debug\net7.0\refint\P26-tipo-angulo.dll
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\obj\Debug\net7.0\P26-tipo-angulo.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\obj\Debug\net7.0\P26-tipo-angulo.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P26-tipo-angulo\obj\Debug\net7.0\ref\P26-tipo-angulo.dll

@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\bin\Debug\net7.0\P28-ley-de-newton.exe
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\bin\Debug\net7.0\P28-ley-de-newton.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\bin\Debug\net7.0\P28-ley-de-newton.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\bin\Debug\net7.0\P28-ley-de-newton.dll
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\bin\Debug\net7.0\P28-ley-de-newton.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\obj\Debug\net7.0\P28-ley-de-newton.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\obj\Debug\net7.0\P28-ley-de-newton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\obj\Debug\net7.0\P28-ley-de-newton.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\obj\Debug\net7.0\P28-ley-de-newton.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\obj\Debug\net7.0\P28-ley-de-newton.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\obj\Debug\net7.0\P28-ley-de-newton.dll
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\obj\Debug\net7.0\refint\P28-ley-de-newton.dll
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\obj\Debug\net7.0\P28-ley-de-newton.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\obj\Debug\net7.0\P28-ley-de-newton.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P28-ley-de-newton\obj\Debug\net7.0\ref\P28-ley-de-newton.dll
