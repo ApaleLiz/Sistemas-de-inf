@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\bin\Debug\net7.0\P29-calculadora.exe
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\bin\Debug\net7.0\P29-calculadora.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\bin\Debug\net7.0\P29-calculadora.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\bin\Debug\net7.0\P29-calculadora.dll
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\bin\Debug\net7.0\P29-calculadora.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\obj\Debug\net7.0\P29-calculadora.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\obj\Debug\net7.0\P29-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\obj\Debug\net7.0\P29-calculadora.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\obj\Debug\net7.0\P29-calculadora.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\obj\Debug\net7.0\P29-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\obj\Debug\net7.0\P29-calculadora.dll
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\obj\Debug\net7.0\refint\P29-calculadora.dll
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\obj\Debug\net7.0\P29-calculadora.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\obj\Debug\net7.0\P29-calculadora.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P29-calculadora\obj\Debug\net7.0\ref\P29-calculadora.dll

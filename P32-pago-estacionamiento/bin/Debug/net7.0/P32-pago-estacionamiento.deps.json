@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P32-pago-estacionamiento/1.0.0": {
+        "runtime": {
+          "P32-pago-estacionamiento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P32-pago-estacionamiento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

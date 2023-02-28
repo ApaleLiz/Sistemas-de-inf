@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\obj\Debug\net7.0\P31-numeros-romanos.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\obj\Debug\net7.0\P31-numeros-romanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\obj\Debug\net7.0\P31-numeros-romanos.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\obj\Debug\net7.0\P31-numeros-romanos.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\obj\Debug\net7.0\P31-numeros-romanos.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\bin\Debug\net7.0\P31-numeros-romanos.exe
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\bin\Debug\net7.0\P31-numeros-romanos.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\bin\Debug\net7.0\P31-numeros-romanos.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\bin\Debug\net7.0\P31-numeros-romanos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\bin\Debug\net7.0\P31-numeros-romanos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\obj\Debug\net7.0\P31-numeros-romanos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\obj\Debug\net7.0\refint\P31-numeros-romanos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\obj\Debug\net7.0\P31-numeros-romanos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\obj\Debug\net7.0\P31-numeros-romanos.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P31-numeros-romanos\obj\Debug\net7.0\ref\P31-numeros-romanos.dll

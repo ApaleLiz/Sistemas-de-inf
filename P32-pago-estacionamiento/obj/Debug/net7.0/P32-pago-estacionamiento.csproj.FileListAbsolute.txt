@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\obj\Debug\net7.0\P32-pago-estacionamiento.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\obj\Debug\net7.0\P32-pago-estacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\obj\Debug\net7.0\P32-pago-estacionamiento.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\obj\Debug\net7.0\P32-pago-estacionamiento.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\obj\Debug\net7.0\P32-pago-estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\bin\Debug\net7.0\P32-pago-estacionamiento.exe
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\bin\Debug\net7.0\P32-pago-estacionamiento.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\bin\Debug\net7.0\P32-pago-estacionamiento.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\bin\Debug\net7.0\P32-pago-estacionamiento.dll
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\bin\Debug\net7.0\P32-pago-estacionamiento.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\obj\Debug\net7.0\P32-pago-estacionamiento.dll
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\obj\Debug\net7.0\refint\P32-pago-estacionamiento.dll
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\obj\Debug\net7.0\P32-pago-estacionamiento.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\obj\Debug\net7.0\P32-pago-estacionamiento.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P32-pago-estacionamiento\obj\Debug\net7.0\ref\P32-pago-estacionamiento.dll
