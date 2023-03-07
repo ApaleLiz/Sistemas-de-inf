@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P40-primer-parcial/1.0.0": {
+        "runtime": {
+          "P40-primer-parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P40-primer-parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
