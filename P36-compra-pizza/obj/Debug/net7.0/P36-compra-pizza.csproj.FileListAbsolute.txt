@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\obj\Debug\net7.0\P36-compra-pizza.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\obj\Debug\net7.0\P36-compra-pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\obj\Debug\net7.0\P36-compra-pizza.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\obj\Debug\net7.0\P36-compra-pizza.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\obj\Debug\net7.0\P36-compra-pizza.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\bin\Debug\net7.0\P36-compra-pizza.exe
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\bin\Debug\net7.0\P36-compra-pizza.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\bin\Debug\net7.0\P36-compra-pizza.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\bin\Debug\net7.0\P36-compra-pizza.dll
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\bin\Debug\net7.0\P36-compra-pizza.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\obj\Debug\net7.0\P36-compra-pizza.dll
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\obj\Debug\net7.0\refint\P36-compra-pizza.dll
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\obj\Debug\net7.0\P36-compra-pizza.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\obj\Debug\net7.0\P36-compra-pizza.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P36-compra-pizza\obj\Debug\net7.0\ref\P36-compra-pizza.dll

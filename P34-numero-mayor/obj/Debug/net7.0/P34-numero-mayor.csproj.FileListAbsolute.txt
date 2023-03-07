@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\obj\Debug\net7.0\P34-numero-mayor.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\obj\Debug\net7.0\P34-numero-mayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\obj\Debug\net7.0\P34-numero-mayor.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\obj\Debug\net7.0\P34-numero-mayor.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\obj\Debug\net7.0\P34-numero-mayor.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\bin\Debug\net7.0\P34-numero-mayor.exe
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\bin\Debug\net7.0\P34-numero-mayor.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\bin\Debug\net7.0\P34-numero-mayor.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\bin\Debug\net7.0\P34-numero-mayor.dll
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\bin\Debug\net7.0\P34-numero-mayor.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\obj\Debug\net7.0\P34-numero-mayor.dll
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\obj\Debug\net7.0\refint\P34-numero-mayor.dll
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\obj\Debug\net7.0\P34-numero-mayor.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\obj\Debug\net7.0\P34-numero-mayor.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P34-numero-mayor\obj\Debug\net7.0\ref\P34-numero-mayor.dll

@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\bin\Debug\net7.0\P33-numeros-consecutivos.exe
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\bin\Debug\net7.0\P33-numeros-consecutivos.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\bin\Debug\net7.0\P33-numeros-consecutivos.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\bin\Debug\net7.0\P33-numeros-consecutivos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\bin\Debug\net7.0\P33-numeros-consecutivos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\obj\Debug\net7.0\P33-numeros-consecutivos.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\obj\Debug\net7.0\P33-numeros-consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\obj\Debug\net7.0\P33-numeros-consecutivos.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\obj\Debug\net7.0\P33-numeros-consecutivos.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\obj\Debug\net7.0\P33-numeros-consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\obj\Debug\net7.0\P33-numeros-consecutivos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\obj\Debug\net7.0\refint\P33-numeros-consecutivos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\obj\Debug\net7.0\P33-numeros-consecutivos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\obj\Debug\net7.0\P33-numeros-consecutivos.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P33-numeros-consecutivos\obj\Debug\net7.0\ref\P33-numeros-consecutivos.dll
