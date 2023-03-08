@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\obj\Debug\net7.0\P37-calculo-notas.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\obj\Debug\net7.0\P37-calculo-notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\obj\Debug\net7.0\P37-calculo-notas.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\obj\Debug\net7.0\P37-calculo-notas.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\obj\Debug\net7.0\P37-calculo-notas.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\bin\Debug\net7.0\P37-calculo-notas.exe
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\bin\Debug\net7.0\P37-calculo-notas.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\bin\Debug\net7.0\P37-calculo-notas.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\bin\Debug\net7.0\P37-calculo-notas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\bin\Debug\net7.0\P37-calculo-notas.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\obj\Debug\net7.0\P37-calculo-notas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\obj\Debug\net7.0\refint\P37-calculo-notas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\obj\Debug\net7.0\P37-calculo-notas.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\obj\Debug\net7.0\P37-calculo-notas.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P37-calculo-notas\obj\Debug\net7.0\ref\P37-calculo-notas.dll

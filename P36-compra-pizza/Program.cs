@@ -1,35 +1,35 @@
-﻿// Administrar la venta de pizzas
-
-
+﻿//Realiza tu pedido de pizza
 Console.Clear();
-Console.WriteLine("Elige el tamaño de tu pedido de pizzas: \n");
-Console.WriteLine("Tamaño : 1- Chica - $5 2- Mediana - $10 3- Grande - $15");
-Console.Write("Ingrese un numero del (1..3): ");
-int n = int.Parse(Console.ReadLine());
+Console.WriteLine("\n Realiza tu pedido de pizza :");
+    Console.WriteLine("Tamaños de pizza:");
+    Console.WriteLine("1. Chica - $5");
+    Console.WriteLine("2. Mediana - $10");
+    Console.WriteLine("3. Grande - $20");
+    Console.Write("\n Seleccione un tamaño de pizza (1-3): ");
 
+    double precioPizza = 0;
+    double descuento = 0;
 
-char tam;
-string tamaño="", cliente="";
-float subtot=0, desc=0, total=0, cant=0;
-
-if(args.Length<5) {
-Menu();
-return 1;
-}
-//Procesar tamaño
-tam= char.Parse(args[0].ToUpper());
-if(tam=='c') {tamaño ="chica"; subtot+=5;}
-else if(tam=='M') {tamaño="Mediana"; subtot+=10;}
-else{tamaño= "Grande"; subtot+=15;}
-
-// Procesar descuento
-if(subtot < 2000){
-    desc=0.0f; cliente="No descuento";
-}
-else if(subtot>2000){
-    desc=0.20f; cliente ="Con descuento";
-}
-total = subtot - (subtot*desc);
-
-Console.WriteLine($"Tamaño: {tamaño}");
-return 0;
+    int opcion = int.Parse(Console.ReadLine());
+    switch (opcion) {
+      case 1: precioPizza = 5; break;
+      case 2: precioPizza = 10; break;
+      case 3: precioPizza = 20; break;
+      default: Console.WriteLine("Opción no válida."); break;
+    }
+    if (precioPizza != 0) {
+      Console.Write("\nIngrese la cantidad de pizzas que desea comprar: ");
+      int cantidad = int.Parse(Console.ReadLine());
+      double totalCompra = precioPizza * cantidad;
+      Console.WriteLine("Tamaño de pizza: $" + precioPizza);
+      Console.WriteLine("Cantidad comprada: " + cantidad);
+      Console.WriteLine("Total compra: $" + totalCompra);
+      if (totalCompra > 2000) {
+        descuento = totalCompra * 0.15;
+        Console.WriteLine("Descuento: $" + descuento);
+        Console.WriteLine("Total de compra con descuento: $" + (totalCompra - descuento));
+      } else {
+        Console.WriteLine("Descuento: $0");
+        Console.WriteLine("Total de compra con descuento: $" + totalCompra);
+      }
+    }
