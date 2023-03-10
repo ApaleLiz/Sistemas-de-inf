@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\obj\Debug\net7.0\P43-procesa-calificacion.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\obj\Debug\net7.0\P43-procesa-calificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\obj\Debug\net7.0\P43-procesa-calificacion.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\obj\Debug\net7.0\P43-procesa-calificacion.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\obj\Debug\net7.0\P43-procesa-calificacion.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\bin\Debug\net7.0\P43-procesa-calificacion.exe
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\bin\Debug\net7.0\P43-procesa-calificacion.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\bin\Debug\net7.0\P43-procesa-calificacion.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\bin\Debug\net7.0\P43-procesa-calificacion.dll
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\bin\Debug\net7.0\P43-procesa-calificacion.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\obj\Debug\net7.0\P43-procesa-calificacion.dll
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\obj\Debug\net7.0\refint\P43-procesa-calificacion.dll
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\obj\Debug\net7.0\P43-procesa-calificacion.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\obj\Debug\net7.0\P43-procesa-calificacion.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P43-procesa-calificacion\obj\Debug\net7.0\ref\P43-procesa-calificacion.dll

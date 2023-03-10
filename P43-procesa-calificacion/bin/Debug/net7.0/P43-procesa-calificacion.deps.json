@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P43-procesa-calificacion/1.0.0": {
+        "runtime": {
+          "P43-procesa-calificacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P43-procesa-calificacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\bin\Debug\net7.0\P42-numeros-100-a-1.exe
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\bin\Debug\net7.0\P42-numeros-100-a-1.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\bin\Debug\net7.0\P42-numeros-100-a-1.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\bin\Debug\net7.0\P42-numeros-100-a-1.dll
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\bin\Debug\net7.0\P42-numeros-100-a-1.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\obj\Debug\net7.0\P42-numeros-100-a-1.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\obj\Debug\net7.0\P42-numeros-100-a-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\obj\Debug\net7.0\P42-numeros-100-a-1.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\obj\Debug\net7.0\P42-numeros-100-a-1.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\obj\Debug\net7.0\P42-numeros-100-a-1.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\obj\Debug\net7.0\P42-numeros-100-a-1.dll
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\obj\Debug\net7.0\refint\P42-numeros-100-a-1.dll
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\obj\Debug\net7.0\P42-numeros-100-a-1.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\obj\Debug\net7.0\P42-numeros-100-a-1.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P42-numeros-100-a-1\obj\Debug\net7.0\ref\P42-numeros-100-a-1.dll

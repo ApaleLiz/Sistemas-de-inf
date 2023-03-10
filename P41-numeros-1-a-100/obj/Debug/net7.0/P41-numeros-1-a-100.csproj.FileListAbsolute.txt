@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\bin\Debug\net7.0\P41-numeros-1-a-100.exe
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\bin\Debug\net7.0\P41-numeros-1-a-100.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\bin\Debug\net7.0\P41-numeros-1-a-100.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\bin\Debug\net7.0\P41-numeros-1-a-100.dll
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\bin\Debug\net7.0\P41-numeros-1-a-100.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\obj\Debug\net7.0\P41-numeros-1-a-100.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\obj\Debug\net7.0\P41-numeros-1-a-100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\obj\Debug\net7.0\P41-numeros-1-a-100.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\obj\Debug\net7.0\P41-numeros-1-a-100.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\obj\Debug\net7.0\P41-numeros-1-a-100.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\obj\Debug\net7.0\P41-numeros-1-a-100.dll
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\obj\Debug\net7.0\refint\P41-numeros-1-a-100.dll
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\obj\Debug\net7.0\P41-numeros-1-a-100.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\obj\Debug\net7.0\P41-numeros-1-a-100.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P41-numeros-1-a-100\obj\Debug\net7.0\ref\P41-numeros-1-a-100.dll
