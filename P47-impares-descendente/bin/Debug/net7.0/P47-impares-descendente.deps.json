@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P47-impares-descendente/1.0.0": {
+        "runtime": {
+          "P47-impares-descendente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P47-impares-descendente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

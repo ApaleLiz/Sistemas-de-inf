@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\bin\Debug\net7.0\P46-pares-ascendentes.exe
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\bin\Debug\net7.0\P46-pares-ascendentes.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\bin\Debug\net7.0\P46-pares-ascendentes.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\bin\Debug\net7.0\P46-pares-ascendentes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\bin\Debug\net7.0\P46-pares-ascendentes.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\obj\Debug\net7.0\P46-pares-ascendentes.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\obj\Debug\net7.0\P46-pares-ascendentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\obj\Debug\net7.0\P46-pares-ascendentes.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\obj\Debug\net7.0\P46-pares-ascendentes.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\obj\Debug\net7.0\P46-pares-ascendentes.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\obj\Debug\net7.0\P46-pares-ascendentes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\obj\Debug\net7.0\refint\P46-pares-ascendentes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\obj\Debug\net7.0\P46-pares-ascendentes.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\obj\Debug\net7.0\P46-pares-ascendentes.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P46-pares-ascendentes\obj\Debug\net7.0\ref\P46-pares-ascendentes.dll

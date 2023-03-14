@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\bin\Debug\net7.0\P48-tabla-de-conversion.exe
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\bin\Debug\net7.0\P48-tabla-de-conversion.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\bin\Debug\net7.0\P48-tabla-de-conversion.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\bin\Debug\net7.0\P48-tabla-de-conversion.dll
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\bin\Debug\net7.0\P48-tabla-de-conversion.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\obj\Debug\net7.0\P48-tabla-de-conversion.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\obj\Debug\net7.0\P48-tabla-de-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\obj\Debug\net7.0\P48-tabla-de-conversion.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\obj\Debug\net7.0\P48-tabla-de-conversion.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\obj\Debug\net7.0\P48-tabla-de-conversion.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\obj\Debug\net7.0\P48-tabla-de-conversion.dll
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\obj\Debug\net7.0\refint\P48-tabla-de-conversion.dll
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\obj\Debug\net7.0\P48-tabla-de-conversion.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\obj\Debug\net7.0\P48-tabla-de-conversion.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P48-tabla-de-conversion\obj\Debug\net7.0\ref\P48-tabla-de-conversion.dll

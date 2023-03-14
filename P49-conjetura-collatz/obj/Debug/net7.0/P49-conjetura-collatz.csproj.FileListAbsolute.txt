@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\bin\Debug\net7.0\P49-conjetura-collatz.exe
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\bin\Debug\net7.0\P49-conjetura-collatz.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\bin\Debug\net7.0\P49-conjetura-collatz.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\bin\Debug\net7.0\P49-conjetura-collatz.dll
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\bin\Debug\net7.0\P49-conjetura-collatz.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\obj\Debug\net7.0\P49-conjetura-collatz.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\obj\Debug\net7.0\P49-conjetura-collatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\obj\Debug\net7.0\P49-conjetura-collatz.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\obj\Debug\net7.0\P49-conjetura-collatz.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\obj\Debug\net7.0\P49-conjetura-collatz.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\obj\Debug\net7.0\P49-conjetura-collatz.dll
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\obj\Debug\net7.0\refint\P49-conjetura-collatz.dll
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\obj\Debug\net7.0\P49-conjetura-collatz.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\obj\Debug\net7.0\P49-conjetura-collatz.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P49-conjetura-collatz\obj\Debug\net7.0\ref\P49-conjetura-collatz.dll
