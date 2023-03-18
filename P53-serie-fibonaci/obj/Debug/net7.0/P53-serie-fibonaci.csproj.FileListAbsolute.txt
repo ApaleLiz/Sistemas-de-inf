@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\bin\Debug\net7.0\P53-serie-fibonaci.exe
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\bin\Debug\net7.0\P53-serie-fibonaci.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\bin\Debug\net7.0\P53-serie-fibonaci.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\bin\Debug\net7.0\P53-serie-fibonaci.dll
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\bin\Debug\net7.0\P53-serie-fibonaci.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\obj\Debug\net7.0\P53-serie-fibonaci.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\obj\Debug\net7.0\P53-serie-fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\obj\Debug\net7.0\P53-serie-fibonaci.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\obj\Debug\net7.0\P53-serie-fibonaci.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\obj\Debug\net7.0\P53-serie-fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\obj\Debug\net7.0\P53-serie-fibonaci.dll
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\obj\Debug\net7.0\refint\P53-serie-fibonaci.dll
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\obj\Debug\net7.0\P53-serie-fibonaci.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\obj\Debug\net7.0\P53-serie-fibonaci.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P53-serie-fibonaci\obj\Debug\net7.0\ref\P53-serie-fibonaci.dll

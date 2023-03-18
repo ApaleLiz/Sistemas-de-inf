@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\bin\Debug\net7.0\P51-pares-descendentes.exe
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\bin\Debug\net7.0\P51-pares-descendentes.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\bin\Debug\net7.0\P51-pares-descendentes.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\bin\Debug\net7.0\P51-pares-descendentes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\bin\Debug\net7.0\P51-pares-descendentes.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\obj\Debug\net7.0\P51-pares-descendentes.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\obj\Debug\net7.0\P51-pares-descendentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\obj\Debug\net7.0\P51-pares-descendentes.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\obj\Debug\net7.0\P51-pares-descendentes.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\obj\Debug\net7.0\P51-pares-descendentes.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\obj\Debug\net7.0\P51-pares-descendentes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\obj\Debug\net7.0\refint\P51-pares-descendentes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\obj\Debug\net7.0\P51-pares-descendentes.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\obj\Debug\net7.0\P51-pares-descendentes.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P51-pares-descendentes\obj\Debug\net7.0\ref\P51-pares-descendentes.dll

@@ -1,23 +1,34 @@
-﻿// Imprime ,los numeros impares  de n al 1, clcula su suma, el proceso se repite
-
-int n, c, s;
+﻿// imprime los numeros impares de 1 a n, calcula su suma, el proceso se repite
+int n;
+int count, i = 1;
+int sum = 0;
 char resp;
-
-do{
+do
+{
 Console.Clear();
-Console.WriteLine("Imprime ,los numeros impares  del 1 al n, calcula su suma, el proceso se repite");
-Console.Write("Hasta donde deseas los impares ?"); n= int.Parse(Console.ReadLine());
+System.Console.WriteLine(" imprime los numeros impares de 1 a n, calcula su suma, el proceso se repite \n");
+System.Console.Write("Desde donde deseas los impares ?:");
+n = int.Parse(Console.ReadLine());
 
-c=( n%2==0 ? --n: n);
-s=0;
-while(c<= n){
-    Console.Write($"{c} ");
-    s += c;
-    c +=2;
+count = 0;
+    System.Console.WriteLine($"Numeros impares entre 1 y {n}");
+    while ( i <= n )
+    {
+        if (i % 2 == 1)
+        {
+            System.Console.Write($"{i} ");
+            sum+= i;
+            count++;
+        }
+        i++;
+    }
+    double promedio = (sum / count);
     
-}
-Console.WriteLine($"\n La suma de los números pares de {n}  al 1 es = {s}");
-Console.Write("\nDeseas continuar (S/N) ? ");resp = char.ToUpper(Console.ReadLine()[0]);
-} while (resp != 'N');
+    Console.WriteLine($"\nLa suma de los numeros impares es: {sum}");
+    Console.WriteLine($"El promedio de los numeros impares es: {promedio}");
+    
+    System.Console.Write("\nDeseas continuar (S/N): ");
+    resp = char.ToUpper(Console.ReadLine()[0]);
+} while (resp !='N');
 
-Console.WriteLine("\n Proceso termiando, ya me canse de repetir ...");
+System.Console.WriteLine("Proceso terminado!!");

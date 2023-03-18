@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\bin\Debug\net7.0\P52-conversion-temperatura.exe
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\bin\Debug\net7.0\P52-conversion-temperatura.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\bin\Debug\net7.0\P52-conversion-temperatura.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\bin\Debug\net7.0\P52-conversion-temperatura.dll
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\bin\Debug\net7.0\P52-conversion-temperatura.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\obj\Debug\net7.0\P52-conversion-temperatura.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\obj\Debug\net7.0\P52-conversion-temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\obj\Debug\net7.0\P52-conversion-temperatura.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\obj\Debug\net7.0\P52-conversion-temperatura.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\obj\Debug\net7.0\P52-conversion-temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\obj\Debug\net7.0\P52-conversion-temperatura.dll
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\obj\Debug\net7.0\refint\P52-conversion-temperatura.dll
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\obj\Debug\net7.0\P52-conversion-temperatura.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\obj\Debug\net7.0\P52-conversion-temperatura.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P52-conversion-temperatura\obj\Debug\net7.0\ref\P52-conversion-temperatura.dll
