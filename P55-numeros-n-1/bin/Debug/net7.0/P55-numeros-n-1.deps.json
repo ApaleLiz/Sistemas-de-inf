@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P55-numeros-n-1/1.0.0": {
+        "runtime": {
+          "P55-numeros-n-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P55-numeros-n-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

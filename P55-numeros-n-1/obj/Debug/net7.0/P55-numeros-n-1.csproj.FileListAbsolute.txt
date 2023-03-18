@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\bin\Debug\net7.0\P55-numeros-n-1.exe
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\bin\Debug\net7.0\P55-numeros-n-1.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\bin\Debug\net7.0\P55-numeros-n-1.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\bin\Debug\net7.0\P55-numeros-n-1.dll
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\bin\Debug\net7.0\P55-numeros-n-1.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\obj\Debug\net7.0\P55-numeros-n-1.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\obj\Debug\net7.0\P55-numeros-n-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\obj\Debug\net7.0\P55-numeros-n-1.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\obj\Debug\net7.0\P55-numeros-n-1.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\obj\Debug\net7.0\P55-numeros-n-1.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\obj\Debug\net7.0\P55-numeros-n-1.dll
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\obj\Debug\net7.0\refint\P55-numeros-n-1.dll
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\obj\Debug\net7.0\P55-numeros-n-1.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\obj\Debug\net7.0\P55-numeros-n-1.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P55-numeros-n-1\obj\Debug\net7.0\ref\P55-numeros-n-1.dll

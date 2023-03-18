@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\obj\Debug\net7.0\P57-suma-pares-impares.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\obj\Debug\net7.0\P57-suma-pares-impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\obj\Debug\net7.0\P57-suma-pares-impares.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\obj\Debug\net7.0\P57-suma-pares-impares.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\obj\Debug\net7.0\P57-suma-pares-impares.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\bin\Debug\net7.0\P57-suma-pares-impares.exe
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\bin\Debug\net7.0\P57-suma-pares-impares.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\bin\Debug\net7.0\P57-suma-pares-impares.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\bin\Debug\net7.0\P57-suma-pares-impares.dll
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\bin\Debug\net7.0\P57-suma-pares-impares.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\obj\Debug\net7.0\P57-suma-pares-impares.dll
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\obj\Debug\net7.0\refint\P57-suma-pares-impares.dll
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\obj\Debug\net7.0\P57-suma-pares-impares.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\obj\Debug\net7.0\P57-suma-pares-impares.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P57-suma-pares-impares\obj\Debug\net7.0\ref\P57-suma-pares-impares.dll

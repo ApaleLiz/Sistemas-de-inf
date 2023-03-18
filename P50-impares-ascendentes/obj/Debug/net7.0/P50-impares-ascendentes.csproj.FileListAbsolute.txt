@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\bin\Debug\net7.0\P50-impares-ascendentes.exe
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\bin\Debug\net7.0\P50-impares-ascendentes.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\bin\Debug\net7.0\P50-impares-ascendentes.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\bin\Debug\net7.0\P50-impares-ascendentes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\bin\Debug\net7.0\P50-impares-ascendentes.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\obj\Debug\net7.0\P50-impares-ascendentes.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\obj\Debug\net7.0\P50-impares-ascendentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\obj\Debug\net7.0\P50-impares-ascendentes.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\obj\Debug\net7.0\P50-impares-ascendentes.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\obj\Debug\net7.0\P50-impares-ascendentes.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\obj\Debug\net7.0\P50-impares-ascendentes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\obj\Debug\net7.0\refint\P50-impares-ascendentes.dll
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\obj\Debug\net7.0\P50-impares-ascendentes.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\obj\Debug\net7.0\P50-impares-ascendentes.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P50-impares-ascendentes\obj\Debug\net7.0\ref\P50-impares-ascendentes.dll
