@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\obj\Debug\net7.0\P61-factorial-numeros.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\obj\Debug\net7.0\P61-factorial-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\obj\Debug\net7.0\P61-factorial-numeros.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\obj\Debug\net7.0\P61-factorial-numeros.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\obj\Debug\net7.0\P61-factorial-numeros.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\bin\Debug\net7.0\P61-factorial-numeros.exe
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\bin\Debug\net7.0\P61-factorial-numeros.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\bin\Debug\net7.0\P61-factorial-numeros.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\bin\Debug\net7.0\P61-factorial-numeros.dll
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\bin\Debug\net7.0\P61-factorial-numeros.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\obj\Debug\net7.0\P61-factorial-numeros.dll
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\obj\Debug\net7.0\refint\P61-factorial-numeros.dll
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\obj\Debug\net7.0\P61-factorial-numeros.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\obj\Debug\net7.0\P61-factorial-numeros.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P61-factorial-numeros\obj\Debug\net7.0\ref\P61-factorial-numeros.dll

@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\bin\Debug\net7.0\P59-tablas-multiplicar.exe
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\bin\Debug\net7.0\P59-tablas-multiplicar.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\bin\Debug\net7.0\P59-tablas-multiplicar.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\bin\Debug\net7.0\P59-tablas-multiplicar.dll
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\bin\Debug\net7.0\P59-tablas-multiplicar.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\obj\Debug\net7.0\P59-tablas-multiplicar.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\obj\Debug\net7.0\P59-tablas-multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\obj\Debug\net7.0\P59-tablas-multiplicar.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\obj\Debug\net7.0\P59-tablas-multiplicar.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\obj\Debug\net7.0\P59-tablas-multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\obj\Debug\net7.0\P59-tablas-multiplicar.dll
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\obj\Debug\net7.0\refint\P59-tablas-multiplicar.dll
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\obj\Debug\net7.0\P59-tablas-multiplicar.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\obj\Debug\net7.0\P59-tablas-multiplicar.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P59-tablas-multiplicar\obj\Debug\net7.0\ref\P59-tablas-multiplicar.dll
