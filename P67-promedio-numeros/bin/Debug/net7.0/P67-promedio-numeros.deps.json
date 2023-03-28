@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P67-promedio-numeros/1.0.0": {
+        "runtime": {
+          "P67-promedio-numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P67-promedio-numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

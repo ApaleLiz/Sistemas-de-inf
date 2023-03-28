@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P71-calificacion-letra/1.0.0": {
+        "runtime": {
+          "P71-calificacion-letra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P71-calificacion-letra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

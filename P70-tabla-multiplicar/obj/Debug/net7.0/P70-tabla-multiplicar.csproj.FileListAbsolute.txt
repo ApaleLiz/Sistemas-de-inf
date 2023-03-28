@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\obj\Debug\net7.0\P70-tabla-multiplicar.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\obj\Debug\net7.0\P70-tabla-multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\obj\Debug\net7.0\P70-tabla-multiplicar.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\obj\Debug\net7.0\P70-tabla-multiplicar.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\obj\Debug\net7.0\P70-tabla-multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\bin\Debug\net7.0\P70-tabla-multiplicar.exe
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\bin\Debug\net7.0\P70-tabla-multiplicar.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\bin\Debug\net7.0\P70-tabla-multiplicar.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\bin\Debug\net7.0\P70-tabla-multiplicar.dll
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\bin\Debug\net7.0\P70-tabla-multiplicar.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\obj\Debug\net7.0\P70-tabla-multiplicar.dll
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\obj\Debug\net7.0\refint\P70-tabla-multiplicar.dll
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\obj\Debug\net7.0\P70-tabla-multiplicar.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\obj\Debug\net7.0\P70-tabla-multiplicar.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P70-tabla-multiplicar\obj\Debug\net7.0\ref\P70-tabla-multiplicar.dll

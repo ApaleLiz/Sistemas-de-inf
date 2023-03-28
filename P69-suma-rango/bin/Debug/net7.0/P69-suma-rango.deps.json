@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P69-suma-rango/1.0.0": {
+        "runtime": {
+          "P69-suma-rango.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P69-suma-rango/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

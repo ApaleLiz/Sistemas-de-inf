@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\obj\Debug\net7.0\P69-suma-rango.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\obj\Debug\net7.0\P69-suma-rango.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\obj\Debug\net7.0\P69-suma-rango.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\obj\Debug\net7.0\P69-suma-rango.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\obj\Debug\net7.0\P69-suma-rango.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\bin\Debug\net7.0\P69-suma-rango.exe
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\bin\Debug\net7.0\P69-suma-rango.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\bin\Debug\net7.0\P69-suma-rango.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\bin\Debug\net7.0\P69-suma-rango.dll
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\bin\Debug\net7.0\P69-suma-rango.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\obj\Debug\net7.0\P69-suma-rango.dll
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\obj\Debug\net7.0\refint\P69-suma-rango.dll
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\obj\Debug\net7.0\P69-suma-rango.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\obj\Debug\net7.0\P69-suma-rango.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P69-suma-rango\obj\Debug\net7.0\ref\P69-suma-rango.dll

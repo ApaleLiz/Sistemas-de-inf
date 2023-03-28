@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\obj\Debug\net7.0\P68-conversion-temperaturas.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\obj\Debug\net7.0\P68-conversion-temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\obj\Debug\net7.0\P68-conversion-temperaturas.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\obj\Debug\net7.0\P68-conversion-temperaturas.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\obj\Debug\net7.0\P68-conversion-temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\bin\Debug\net7.0\P68-conversion-temperaturas.exe
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\bin\Debug\net7.0\P68-conversion-temperaturas.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\bin\Debug\net7.0\P68-conversion-temperaturas.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\bin\Debug\net7.0\P68-conversion-temperaturas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\bin\Debug\net7.0\P68-conversion-temperaturas.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\obj\Debug\net7.0\P68-conversion-temperaturas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\obj\Debug\net7.0\refint\P68-conversion-temperaturas.dll
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\obj\Debug\net7.0\P68-conversion-temperaturas.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\obj\Debug\net7.0\P68-conversion-temperaturas.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P68-conversion-temperaturas\obj\Debug\net7.0\ref\P68-conversion-temperaturas.dll
