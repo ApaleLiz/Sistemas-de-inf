@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\bin\Debug\net7.0\P72-mayor-tres-numeros.exe
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\bin\Debug\net7.0\P72-mayor-tres-numeros.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\bin\Debug\net7.0\P72-mayor-tres-numeros.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\bin\Debug\net7.0\P72-mayor-tres-numeros.dll
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\bin\Debug\net7.0\P72-mayor-tres-numeros.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\obj\Debug\net7.0\P72-mayor-tres-numeros.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\obj\Debug\net7.0\P72-mayor-tres-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\obj\Debug\net7.0\P72-mayor-tres-numeros.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\obj\Debug\net7.0\P72-mayor-tres-numeros.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\obj\Debug\net7.0\P72-mayor-tres-numeros.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\obj\Debug\net7.0\P72-mayor-tres-numeros.dll
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\obj\Debug\net7.0\refint\P72-mayor-tres-numeros.dll
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\obj\Debug\net7.0\P72-mayor-tres-numeros.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\obj\Debug\net7.0\P72-mayor-tres-numeros.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P72-mayor-tres-numeros\obj\Debug\net7.0\ref\P72-mayor-tres-numeros.dll

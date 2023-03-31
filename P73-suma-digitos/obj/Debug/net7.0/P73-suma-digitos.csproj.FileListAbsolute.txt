@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\bin\Debug\net7.0\P73-suma-digitos.exe
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\bin\Debug\net7.0\P73-suma-digitos.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\bin\Debug\net7.0\P73-suma-digitos.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\bin\Debug\net7.0\P73-suma-digitos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\bin\Debug\net7.0\P73-suma-digitos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\obj\Debug\net7.0\P73-suma-digitos.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\obj\Debug\net7.0\P73-suma-digitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\obj\Debug\net7.0\P73-suma-digitos.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\obj\Debug\net7.0\P73-suma-digitos.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\obj\Debug\net7.0\P73-suma-digitos.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\obj\Debug\net7.0\P73-suma-digitos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\obj\Debug\net7.0\refint\P73-suma-digitos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\obj\Debug\net7.0\P73-suma-digitos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\obj\Debug\net7.0\P73-suma-digitos.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P73-suma-digitos\obj\Debug\net7.0\ref\P73-suma-digitos.dll

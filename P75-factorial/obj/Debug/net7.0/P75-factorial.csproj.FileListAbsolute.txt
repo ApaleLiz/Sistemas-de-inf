@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\bin\Debug\net7.0\P75-factorial.exe
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\bin\Debug\net7.0\P75-factorial.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\bin\Debug\net7.0\P75-factorial.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\bin\Debug\net7.0\P75-factorial.dll
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\bin\Debug\net7.0\P75-factorial.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\obj\Debug\net7.0\P75-factorial.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\obj\Debug\net7.0\P75-factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\obj\Debug\net7.0\P75-factorial.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\obj\Debug\net7.0\P75-factorial.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\obj\Debug\net7.0\P75-factorial.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\obj\Debug\net7.0\P75-factorial.dll
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\obj\Debug\net7.0\refint\P75-factorial.dll
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\obj\Debug\net7.0\P75-factorial.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\obj\Debug\net7.0\P75-factorial.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P75-factorial\obj\Debug\net7.0\ref\P75-factorial.dll
