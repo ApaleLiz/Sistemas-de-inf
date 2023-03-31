@@ -107,4 +107,12 @@
 - p68-conversion-temperaturas
 - p69-suma-rango
 - p70–tabla-multiplicar
-- p71-calificacion-letra
+- p71-calificacion-
+
+## Actividad 13 - Funciones parte_2 30/03/23
+- p72-mayor-tres-numeros
+- p73-suma-digitos
+- p74-suma-pares-impares
+- p75-factorial
+- p76-cuadro-caracter
+
