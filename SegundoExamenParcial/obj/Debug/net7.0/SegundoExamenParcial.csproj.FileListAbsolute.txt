@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\bin\Debug\net7.0\SegundoExamenParcial.exe
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\bin\Debug\net7.0\SegundoExamenParcial.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\bin\Debug\net7.0\SegundoExamenParcial.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\bin\Debug\net7.0\SegundoExamenParcial.dll
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\bin\Debug\net7.0\SegundoExamenParcial.pdb
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\obj\Debug\net7.0\SegundoExamenParcial.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\obj\Debug\net7.0\SegundoExamenParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\obj\Debug\net7.0\SegundoExamenParcial.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\obj\Debug\net7.0\SegundoExamenParcial.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\obj\Debug\net7.0\SegundoExamenParcial.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\obj\Debug\net7.0\SegundoExamenParcial.dll
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\obj\Debug\net7.0\refint\SegundoExamenParcial.dll
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\obj\Debug\net7.0\SegundoExamenParcial.pdb
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\obj\Debug\net7.0\SegundoExamenParcial.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\SegundoExamenParcial\obj\Debug\net7.0\ref\SegundoExamenParcial.dll
