@@ -7,6 +7,7 @@ int op;
 int n = 0;
 
 
+
 do{
  op = menu();
     switch (op)
@@ -28,10 +29,11 @@ do{
         }
         break;
         case 2: Mostrar(nums, n);
+      
             break;
         case 3:
             suma = Sumar(nums, n);
-            promedio = suma / nums.Length;
+            promedio = suma / n;
         MayorPromedio(nums, n, promedio);
             break;
         case 4: 
@@ -79,6 +81,8 @@ void Mostrar(double[] a, int n){
 void MayorPromedio(double[] a, int n, double promedio){
     double suma = Sumar(a, n);
     double promFunct = suma / a.Length;
+    Console.WriteLine($"\nEl promedio es: {promedio:f2}");
+    Console.WriteLine($"\n Los numeros mayores al promedio son: ");
     for (int i = 0; i < n; i++)
     {
         if(a[i] > promFunct){
