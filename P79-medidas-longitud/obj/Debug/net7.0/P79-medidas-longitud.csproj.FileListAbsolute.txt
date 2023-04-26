@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\bin\Debug\net7.0\P79-medidas-longitud.exe
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\bin\Debug\net7.0\P79-medidas-longitud.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\bin\Debug\net7.0\P79-medidas-longitud.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\bin\Debug\net7.0\P79-medidas-longitud.dll
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\bin\Debug\net7.0\P79-medidas-longitud.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\obj\Debug\net7.0\P79-medidas-longitud.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\obj\Debug\net7.0\P79-medidas-longitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\obj\Debug\net7.0\P79-medidas-longitud.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\obj\Debug\net7.0\P79-medidas-longitud.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\obj\Debug\net7.0\P79-medidas-longitud.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\obj\Debug\net7.0\P79-medidas-longitud.dll
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\obj\Debug\net7.0\refint\P79-medidas-longitud.dll
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\obj\Debug\net7.0\P79-medidas-longitud.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\obj\Debug\net7.0\P79-medidas-longitud.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P79-medidas-longitud\obj\Debug\net7.0\ref\P79-medidas-longitud.dll

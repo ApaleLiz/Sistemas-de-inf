@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\bin\Debug\net7.0\P81-angulos.exe
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\bin\Debug\net7.0\P81-angulos.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\bin\Debug\net7.0\P81-angulos.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\bin\Debug\net7.0\P81-angulos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\bin\Debug\net7.0\P81-angulos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\obj\Debug\net7.0\P81-angulos.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\obj\Debug\net7.0\P81-angulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\obj\Debug\net7.0\P81-angulos.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\obj\Debug\net7.0\P81-angulos.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\obj\Debug\net7.0\P81-angulos.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\obj\Debug\net7.0\P81-angulos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\obj\Debug\net7.0\refint\P81-angulos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\obj\Debug\net7.0\P81-angulos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\obj\Debug\net7.0\P81-angulos.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P81-angulos\obj\Debug\net7.0\ref\P81-angulos.dll

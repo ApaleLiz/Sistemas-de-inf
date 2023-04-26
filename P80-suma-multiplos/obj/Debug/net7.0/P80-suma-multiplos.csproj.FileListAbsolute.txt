@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\bin\Debug\net7.0\P80-suma-multiplos.exe
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\bin\Debug\net7.0\P80-suma-multiplos.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\bin\Debug\net7.0\P80-suma-multiplos.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\bin\Debug\net7.0\P80-suma-multiplos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\bin\Debug\net7.0\P80-suma-multiplos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\obj\Debug\net7.0\P80-suma-multiplos.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\obj\Debug\net7.0\P80-suma-multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\obj\Debug\net7.0\P80-suma-multiplos.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\obj\Debug\net7.0\P80-suma-multiplos.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\obj\Debug\net7.0\P80-suma-multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\obj\Debug\net7.0\P80-suma-multiplos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\obj\Debug\net7.0\refint\P80-suma-multiplos.dll
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\obj\Debug\net7.0\P80-suma-multiplos.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\obj\Debug\net7.0\P80-suma-multiplos.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P80-suma-multiplos\obj\Debug\net7.0\ref\P80-suma-multiplos.dll
