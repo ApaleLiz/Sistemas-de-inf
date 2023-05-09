@@ -1,0 +1,5 @@
+C:\Users\Liz\Documents\Sistemas de inf\P86-cuenta-bancaria\obj\Debug\net7.0\P86-cuenta-bancaria.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P86-cuenta-bancaria\obj\Debug\net7.0\P86-cuenta-bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P86-cuenta-bancaria\obj\Debug\net7.0\P86-cuenta-bancaria.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P86-cuenta-bancaria\obj\Debug\net7.0\P86-cuenta-bancaria.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P86-cuenta-bancaria\obj\Debug\net7.0\P86-cuenta-bancaria.csproj.CoreCompileInputs.cache
