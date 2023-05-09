@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P87-control-escolar/1.0.0": {
+        "runtime": {
+          "P87-control-escolar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P87-control-escolar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

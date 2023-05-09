@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\obj\Debug\net7.0\P87-control-escolar.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\obj\Debug\net7.0\P87-control-escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\obj\Debug\net7.0\P87-control-escolar.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\obj\Debug\net7.0\P87-control-escolar.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\obj\Debug\net7.0\P87-control-escolar.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\bin\Debug\net7.0\P87-control-escolar.exe
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\bin\Debug\net7.0\P87-control-escolar.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\bin\Debug\net7.0\P87-control-escolar.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\bin\Debug\net7.0\P87-control-escolar.dll
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\bin\Debug\net7.0\P87-control-escolar.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\obj\Debug\net7.0\P87-control-escolar.dll
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\obj\Debug\net7.0\refint\P87-control-escolar.dll
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\obj\Debug\net7.0\P87-control-escolar.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\obj\Debug\net7.0\P87-control-escolar.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P87-control-escolar\obj\Debug\net7.0\ref\P87-control-escolar.dll
