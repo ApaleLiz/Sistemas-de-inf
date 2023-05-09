@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\bin\Debug\net7.0\P85-cuenta-bancaria.exe
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\bin\Debug\net7.0\P85-cuenta-bancaria.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\bin\Debug\net7.0\P85-cuenta-bancaria.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\bin\Debug\net7.0\P85-cuenta-bancaria.dll
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\bin\Debug\net7.0\P85-cuenta-bancaria.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\obj\Debug\net7.0\P85-cuenta-bancaria.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\obj\Debug\net7.0\P85-cuenta-bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\obj\Debug\net7.0\P85-cuenta-bancaria.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\obj\Debug\net7.0\P85-cuenta-bancaria.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\obj\Debug\net7.0\P85-cuenta-bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\obj\Debug\net7.0\P85-cuenta-bancaria.dll
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\obj\Debug\net7.0\refint\P85-cuenta-bancaria.dll
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\obj\Debug\net7.0\P85-cuenta-bancaria.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\obj\Debug\net7.0\P85-cuenta-bancaria.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P85-cuenta-bancaria\obj\Debug\net7.0\ref\P85-cuenta-bancaria.dll
