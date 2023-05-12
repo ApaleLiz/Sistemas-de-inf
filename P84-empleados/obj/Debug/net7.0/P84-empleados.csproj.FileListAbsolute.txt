@@ -1,0 +1,15 @@
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\bin\Debug\net7.0\P84-empleados.exe
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\bin\Debug\net7.0\P84-empleados.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\bin\Debug\net7.0\P84-empleados.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\bin\Debug\net7.0\P84-empleados.dll
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\bin\Debug\net7.0\P84-empleados.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\obj\Debug\net7.0\P84-empleados.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\obj\Debug\net7.0\P84-empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\obj\Debug\net7.0\P84-empleados.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\obj\Debug\net7.0\P84-empleados.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\obj\Debug\net7.0\P84-empleados.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\obj\Debug\net7.0\P84-empleados.dll
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\obj\Debug\net7.0\refint\P84-empleados.dll
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\obj\Debug\net7.0\P84-empleados.pdb
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\obj\Debug\net7.0\P84-empleados.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\P84-empleados\obj\Debug\net7.0\ref\P84-empleados.dll
