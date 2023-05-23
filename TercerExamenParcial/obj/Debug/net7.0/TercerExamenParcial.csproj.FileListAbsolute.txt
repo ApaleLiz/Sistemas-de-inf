@@ -1,0 +1,17 @@
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\bin\Debug\net7.0\TercerExamenParcial.exe
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\bin\Debug\net7.0\TercerExamenParcial.deps.json
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\bin\Debug\net7.0\TercerExamenParcial.runtimeconfig.json
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\bin\Debug\net7.0\TercerExamenParcial.dll
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\bin\Debug\net7.0\TercerExamenParcial.pdb
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\TercerExamenParcial.csproj.AssemblyReference.cache
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\TercerExamenParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\TercerExamenParcial.AssemblyInfoInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\TercerExamenParcial.AssemblyInfo.cs
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\TercerExamenParcial.csproj.CoreCompileInputs.cache
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\TercerExamenParcial.dll
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\refint\TercerExamenParcial.dll
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\TercerExamenParcial.pdb
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\TercerExamenParcial.genruntimeconfig.cache
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\ref\TercerExamenParcial.dll
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Liz\Documents\Sistemas de inf\TercerExamenParcial\obj\Debug\net7.0\TercerExamenParcial.csproj.CopyComplete

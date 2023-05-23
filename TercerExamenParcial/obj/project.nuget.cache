@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xJqQxlLJn4g7rrn/sSe1Vl0ArWGOF9FQR06DRRQgiwnUqQGDo3wxeLV/NCLcaswM2oH9L9N060UZarYQ66/DdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liz\\Documents\\Sistemas de inf\\TercerExamenParcial\\TercerExamenParcial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liz\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Liz\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
